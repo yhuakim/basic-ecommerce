@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0"
+  },
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "an e-commerce site with an active shopping cart",
+  "main": "index.js",
+  "author": "Jilis",
+  "license": "MIT"
+}
